@@ -4,7 +4,7 @@ package main
 import (
 	"fmt"
 	"net/url"
-	"queryize"
+	"github.com/koori69/queryize"
 )
 
 type User struct {
